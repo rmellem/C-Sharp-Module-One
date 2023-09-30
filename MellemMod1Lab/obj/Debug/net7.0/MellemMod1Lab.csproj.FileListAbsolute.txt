@@ -1,0 +1,28 @@
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\bin\Debug\net7.0\MellemMod1Lab.exe
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\bin\Debug\net7.0\MellemMod1Lab.deps.json
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\bin\Debug\net7.0\MellemMod1Lab.runtimeconfig.json
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\bin\Debug\net7.0\MellemMod1Lab.dll
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\bin\Debug\net7.0\MellemMod1Lab.pdb
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.AssemblyInfoInputs.cache
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.AssemblyInfo.cs
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.dll
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\obj\Debug\net7.0\refint\MellemMod1Lab.dll
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.pdb
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.genruntimeconfig.cache
+C:\Users\Rebecca\Desktop\Intro Prog C#\MellemMod1Lab\obj\Debug\net7.0\ref\MellemMod1Lab.dll
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\bin\Debug\net7.0\MellemMod1Lab.exe
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\bin\Debug\net7.0\MellemMod1Lab.deps.json
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\bin\Debug\net7.0\MellemMod1Lab.runtimeconfig.json
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\bin\Debug\net7.0\MellemMod1Lab.dll
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\bin\Debug\net7.0\MellemMod1Lab.pdb
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.AssemblyInfoInputs.cache
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.AssemblyInfo.cs
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.csproj.CoreCompileInputs.cache
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.dll
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\obj\Debug\net7.0\refint\MellemMod1Lab.dll
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.pdb
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\obj\Debug\net7.0\MellemMod1Lab.genruntimeconfig.cache
+C:\Users\Rebecca\Desktop\Intro Prog C#\Module 1\MellemMod1Lab\obj\Debug\net7.0\ref\MellemMod1Lab.dll
